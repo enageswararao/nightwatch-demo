@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "nightwatch": "^0.9.8",
-    "selenium-download": "^2.53"
+    "selenium-download": "^3.4.0"
   }
 }
